@@ -6,6 +6,13 @@ process.
 
 **To understand the general idea check our [presentation](https://github.com/RozhanMk/Taxi-demand-prediction/blob/main/Presentation/Demand%20Prediction.pdf)**
 
+# Team Members
+- [Arman Salahshour](https://github.com/Arman-Salahshour?tab=followers)
+- [Paniz Baratnejad](https://github.com/panij)
+- Anahita Kia
+- Javad Maddah
+- [Rozhan Mirzaei](https://github.com/RozhanMk)
+
 # Dataset
 [TLC NYC dataset](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) contains trip data about 12,672,737 trips which are made between 263 different zones in NYC. The trip records include fields capturing pick-up and 
 drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The pick-up 
@@ -52,9 +59,4 @@ Before you run this API, you must get your API key from https://www.visualcrossi
    pip install -r requirements.txt
    python3 manage.py runserver 
 ```
-# Team Members
-- [Arman Salahshour](https://github.com/Arman-Salahshour?tab=followers)
-- [Paniz Baratnejad](https://github.com/panij)
-- Anahita Kia
-- Javad Maddah
-- [Rozhan Mirzaei](https://github.com/RozhanMk)
+
