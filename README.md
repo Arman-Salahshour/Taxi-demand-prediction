@@ -39,7 +39,7 @@ We transformed **multiple multivariate time series** problems into a supervised 
 ![](https://github.com/RozhanMk/Taxi-demand-prediction/blob/main/images/xgboost.png)
 
 # Final Model
-We used simple deep learning with dense layers and we got the best result:
+We used deep learning with dense layers and we got the best result:
 ![](https://github.com/RozhanMk/Taxi-demand-prediction/blob/main/images/deep.png)
 
 # How to run
